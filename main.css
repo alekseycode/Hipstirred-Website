@@ -5,6 +5,7 @@ body {
   margin: 0;
   min-width: 320px;
   line-height: 1.5;
+  background-color: blue;
 }
 h1 {
   font-family: "Rancho", sans-serif;
